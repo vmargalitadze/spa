@@ -1,0 +1,28 @@
+{
+  "gallery": [
+    {
+      "img": "rome.jpg"
+     
+    },
+    {
+      "img": "paris.jpg"
+     
+    },
+    {
+      "img": "swiss-alps.jpg"
+    
+    },
+    {
+      "img": "maldives.jpg"
+    
+    },
+    {
+      "img": "mumbai.jpg"
+    
+    },
+    {
+      "img": "tokyo.jpg"
+   
+    }
+  ]
+}
