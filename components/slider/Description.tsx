@@ -6,11 +6,10 @@ import right from "@/public/right.svg";
 import Image from "next/image";
 
 type Props = {
-  activeImage: any;
-  clickNext: any;
-  clickPrev: any;
+  activeImage: number; 
+  clickNext: () => void; 
+  clickPrev: () => void; 
 };
-
 const Description = ({ activeImage, clickNext, clickPrev }: Props) => {
   return (
     <>

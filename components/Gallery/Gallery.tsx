@@ -4,7 +4,7 @@ import Image from "next/image";
 import db from "@/db/gallery.json";
 import { gallery } from "@/models/gallery";
 import { useState } from "react";
-import Link from "next/link";
+
 
 const Gallery = () => {
   const [selectedImg, setSelectedImg] = useState<number>(0);
