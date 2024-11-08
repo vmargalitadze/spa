@@ -13,7 +13,7 @@ function Header() {
   <div className="px-4">
     <div className="flex items-center justify-between">
       <div className="flex shrink-0">
-        <Link aria-current="page" className="flex items-center" href="/">
+        <Link aria-current="page" className="flex items-center" href="/admin">
           <Image
             className="h-10 w-auto rounded-full"
             src={img}
